@@ -1,0 +1,22 @@
+.post-list-container {
+  padding: 20px;
+}
+
+.post-list-container h2 {
+  margin-bottom: 20px;
+}
+
+.post-list-container ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.post-list-container li {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  cursor: pointer;
+}
+
+.post-list-container li.selected {
+  background-color: #f5f5f5;
+}
