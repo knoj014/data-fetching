@@ -1,0 +1,15 @@
+.app {
+  display: flex;
+  height: 100vh;
+}
+
+.post-list {
+  width: 50%;
+  border-right: 1px solid #ccc;
+  overflow-y: auto;
+}
+
+.post-detail {
+  width: 50%;
+  overflow-y: auto;
+}

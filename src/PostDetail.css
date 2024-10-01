@@ -1,0 +1,17 @@
+.post-detail-container {
+  padding: 20px;
+}
+
+.post-detail-container h2 {
+  margin-bottom: 10px;
+}
+
+.post-detail-container ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.comment {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
